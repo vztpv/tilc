@@ -23,10 +23,12 @@
 
 [Discord 입장](https://discord.com/invite/ABeT66K)
 
+----
+
 ### 참여 방법
-언제든지 참여하실 수 있습니다!  
-    참여를 원하는 분은 Challengers.md 파일을 수정하고, PR을 보내주세요!
-    *참여자의 조건 = 자가학습과 배움을 원하는 개발업무(개발자, 기획자, 디자이너, 학생 포함)를 하는 분 only
+**참여를 원하는 분은 Challengers.md 파일을 수정하고, PR을 보내주세요!**  
+_언제든지 참여하실 수 있습니다!_  
+_*참여자의 조건 = 자가학습과 배움을 원하는 개발업무(개발자, 기획자, 디자이너, 학생 포함)를 하는 분 only_
 
 [TILC의 Code of Conduct](https://github.com/spock-mark1/tilc/blob/master/CODE_OF_CONDUCT.md)
 

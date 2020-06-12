@@ -24,6 +24,7 @@ yanbug | 주말마다 코딩하기 | Python | https://github.com/yeonseo/TransMa
 mertyn | 1주일에 2번 TIL 또는 Commit 하기 | Java | https://github.com/mertyn88/Algorithm | 
 세연 | 1주일에 3번 TIL 또는 Commit 하기 | C/C++ | https://github.com/sinyr119/tpdus | 
 icarus8050 | 30일간 매일 TIL 또는 Commit 하기 | Java, Javascript |  | 
+paldad | 1주일에 3번 TIL 또는 Commit 하기 | C/C++/Python | https://github.com/paldad111/til-study | 
 
 
 _(수정을 원하시면, PR을 보내주세요.)_

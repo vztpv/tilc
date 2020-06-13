@@ -10,7 +10,7 @@ Amira | 30일간 Figma  TIL | Figma | https://github.com/iamappple/hello-world |
 Tyson | 1주일에 2번 TIL 또는 Commit하기 | Angular, CSS | https://github.com/tyson444/TIL | 
 Ryan cho | 30일간 매일 TIL 또는 Commit 하기 | Typescript, Angular9 | https://github.com/ryancho/techroad-web | 
 찬영 | 30일간 매일 커밋, 진행중인 프로젝트 완성 | Typescript, React, Graphql | https://github.com/cyjo9603/chanyeong | 
-melchor | 30일간 매일 TIL 또는 Commit 하기 | C, Java |  | 
+melchor | 30일간 매일 TIL 또는 Commit 하기 | C, Java | https://github.com/hypernova1/TIL | 
 edr | 30일간 매일 TIL 또는 Commit하기 | Java, Spring |  | 
 Jooss | 1주일에 4번 TIL 또는 Commit하기 | Python | https://github.com/Jooss287/Development-log | 
 jungwoo | 30일간 매일 Commit하기 | C/C++, Java |  | 

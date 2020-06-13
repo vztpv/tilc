@@ -1,10 +1,8 @@
-## Discord Server Rules
+# Discord Server Rules
 
+## Discord에서 다음의 Rule을 지켜주세요.
 > Discord에서도 [Code of Conduct](https://github.com/spock-mark1/tilc/blob/master/CODE_OF_CONDUCT.md)가 적용됩니다.
 
-Discord에서 다음의 Rule을 지켜주세요.
-
-----
 
 ## General Rules
 

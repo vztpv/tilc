@@ -24,7 +24,7 @@ hyemin | 1주일에 2번 TIL 또는 Commot 하기 | Python, Java | https://githu
 yanbug | 주말마다 코딩하기 | Python | https://github.com/yeonseo/TransMath | 
 mertyn | 1주일에 2번 TIL 또는 Commit 하기 | Java | https://github.com/mertyn88/Algorithm | 
 세연 | 1주일에 3번 TIL 또는 Commit 하기 | C/C++ | https://github.com/sinyr119/tpdus | 
-icarus8050 | 30일간 매일 TIL 또는 Commit 하기 | Java, Javascript | https://github.com/icarus8050 | 
+icarus8050 | 30일간 매일 TIL 또는 Commit 하기 | Java, Javascript | https://github.com/icarus8050/TIL | 
 paldad | 1주일에 3번 TIL 또는 Commit 하기 | C/C++/Python | https://github.com/paldad111/til-study | 
 ts | 1주일에 3번 TIL 또는 Commit 하기 | Java, Spring, JavaScript | https://github.com/ohnamu/study | 
 Simple | 1주일에 2번 TIL 또는 Commit 하기 | Java | https://github.com/leechoongyon/TIL |

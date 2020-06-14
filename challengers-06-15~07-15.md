@@ -8,6 +8,7 @@
 Spock | 30일간 매일 TIL 또는 Commit 하기 | Typescript, Angular9, NestJS | https://github.com/spock-mark1/til | 
 Amira | 30일간 Figma  TIL | Figma | https://github.com/iamappple/hello-world | 
 Tyson | 1주일에 2번 TIL 또는 Commit하기 | Angular, CSS | https://github.com/tyson444/TIL | 
+nowv | 1주일에 2번 TIL 또는 Commit하기 | Java, Spring |  |
 Ryan cho | 30일간 매일 TIL 또는 Commit 하기 | Typescript, Angular9 | https://github.com/ryancho/techroad-web | 
 찬영 | 30일간 매일 커밋, 진행중인 프로젝트 완성 | Typescript, React, Graphql | https://github.com/cyjo9603/chanyeong | 
 melchor | 30일간 매일 TIL 또는 Commit 하기 | C, Java | https://github.com/hypernova1/TIL | 

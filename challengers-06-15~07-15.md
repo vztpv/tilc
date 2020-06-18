@@ -29,7 +29,6 @@ paldad | 1주일에 3번 TIL 또는 Commit 하기 | C/C++/Python | https://githu
 ts | 1주일에 3번 TIL 또는 Commit 하기 | Java, Spring, JavaScript | https://github.com/ohnamu/study |
 Simple | 1주일에 3번 TIL 또는 Commit 하기 | Java | https://github.com/leechoongyon/TIL |
 andY | 30일간 매일 TIL 또는 Commit 하기 | Typescript, Javascript | https://github.com/naamoonoo |
-Hongjun Yun | 1주일에 3번 이상 TIL 또는 Commit 하기 | C/C++ | https://github.com/andylang8445/tilc |
 Yongjae Lee | 30일간 매일 TIL 또는 Commit 하기 | Javascript, Flutter, Swift, Python | https://github.com/dididy/til | 
 
 _(수정을 원하시면, PR을 보내주세요.)_

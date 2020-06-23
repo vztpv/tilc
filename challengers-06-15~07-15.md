@@ -31,5 +31,5 @@ Simple | 1주일에 3번 TIL 또는 Commit 하기 | Java | https://github.com/le
 andY | 30일간 매일 TIL 또는 Commit 하기 | Typescript, Javascript | https://github.com/naamoonoo |
 Yongjae Lee | 30일간 매일 TIL 또는 Commit 하기 | Javascript, Flutter, Swift, Python | https://github.com/dididy/til | 
 Yangwook Jeong | 30일간 매일 TIL | Javascript, Python | https://github.com/Yangeok/Today-I-learned
-
+rsqlpython | 1주일 6회 Commit 하기 | SQL, Python | https://github.com/meucham11
 _(수정을 원하시면, PR을 보내주세요.)_

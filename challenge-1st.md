@@ -31,3 +31,7 @@ Yongjae Lee | 30일간 매일 TIL 또는 Commit 하기 | 2020-06-15 ~ 2020-07-15
 Yangwook Jeong | 30일간 매일 TIL | 2020-06-15 ~ 2020-07-15 | https://github.com/Yangeok/Today-I-learned
 rsqlpython | 1주일 6회 Commit 하기 | 2020-06-15 ~ 2020-07-15 | https://github.com/meucham11
 _(수정을 원하시면, PR을 보내주세요.)_
+
+
+
+[https://docs.google.com/spreadsheets/d/1rTCJj_s15NPwT8p-IHiAhRfZDSenoDCRMNqRSDZafrk/edit#gid=315754177](결과보기)

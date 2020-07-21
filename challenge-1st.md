@@ -34,4 +34,4 @@ _(수정을 원하시면, PR을 보내주세요.)_
 
 
 
-[https://docs.google.com/spreadsheets/d/1rTCJj_s15NPwT8p-IHiAhRfZDSenoDCRMNqRSDZafrk/edit#gid=315754177](결과보기)
+[결과보기](https://docs.google.com/spreadsheets/d/1rTCJj_s15NPwT8p-IHiAhRfZDSenoDCRMNqRSDZafrk/edit#gid=315754177)

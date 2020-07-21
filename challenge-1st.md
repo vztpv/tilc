@@ -11,7 +11,7 @@ Ryan cho | 30일간 매일 TIL 또는 Commit 하기 | 2020-06-15 ~ 2020-07-15 | 
 찬영 | 30일간 매일 커밋, 진행중인 프로젝트 완성 | 2020-06-15 ~ 2020-07-15 | https://github.com/cyjo9603/chanyeong |
 melchor | 30일간 매일 TIL 또는 Commit 하기 | 2020-06-15 ~ 2020-07-15 | https://github.com/hypernova1/TIL |
 edr | 30일간 매일 TIL 또는 Commit하기 | 2020-06-15 ~ 2020-07-15 | https://github.com/ksh9891 |
-Jooss | 1주일에 4번 TIL 또는 Commit하기 | Python | https://github.com/Jooss287/Development-log |
+Jooss | 1주일에 4번 TIL 또는 Commit하기 | 2020-06-15 ~ 2020-07-15 | https://github.com/Jooss287/Development-log |
 jungwoo | 30일간 매일 Commit하기 | 2020-06-15 ~ 2020-07-15 | https://github.com/JJungwoo |
 노카 | 1주일에 3번 TIL 또는 Commit 하기 | 2020-06-15 ~ 2020-07-15 | https://github.com/noCountJun |
 beomun-park | 1주일에 3번 TIL 또는 Commit 하기 | 2020-06-15 ~ 2020-07-15 | https://github.com/parkbeomun/TIL |

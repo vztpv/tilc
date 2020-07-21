@@ -19,7 +19,7 @@ Hongjun Yun | 1주일에 3번 TIL 또는 Commit 하기 | 2020-06-15 ~ 2020-07-15
 Alman | 1주일에 3번 TIL 또는 Commit 하기 | 2020-06-15 ~ 2020-07-15 | https://github.com/AlmanIsland/HelloIsland |
 addy | 1주일에 3번 TIL 또는 Commit 하기 | 2020-06-15 ~ 2020-07-15 | https://github.com/hackyeah039 |
 hyemin | 1주일에 2번 TIL 또는 Commot 하기 | 2020-06-15 ~ 2020-07-15 | https://github.com/hyeminpark9105 |
-yanbug | 주말마다 코딩하기 | Python | https://github.com/yeonseo/TransMath |
+yanbug | 주말마다 코딩하기 | 2020-06-15 ~ 2020-07-15 | https://github.com/yeonseo/TransMath |
 mertyn | 1주일에 2번 TIL 또는 Commit 하기 | 2020-06-15 ~ 2020-07-15 | https://github.com/mertyn88/Algorithm |
 세연 | 1주일에 3번 TIL 또는 Commit 하기 | 2020-06-15 ~ 2020-07-15 | https://github.com/sinyr119/tpdus |
 icarus8050 | 30일간 매일 TIL 또는 Commit 하기 | 2020-06-15 ~ 2020-07-15 | https://github.com/icarus8050/TIL |

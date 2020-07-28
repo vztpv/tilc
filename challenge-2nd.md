@@ -28,5 +28,5 @@ Simple | 1주일에 3번 TIL 또는 Commit 하기 | 2020-06-15 ~ 2020-07-15 | ht
 andY | 30일간 매일 TIL 또는 Commit 하기 | 2020-06-15 ~ 2020-07-15 | https://github.com/naamoonoo |
 Yongjae Lee | 30일간 매일 TIL 또는 Commit 하기 | 2020-06-15 ~ 2020-07-15 | https://github.com/dididy | 
 Yangwook Jeong | 30일간 매일 TIL | 2020-06-15 ~ 2020-07-15 | https://github.com/Yangeok/Today-I-learned | 
-rsqlpython | 1주일 6회 Commit 하기 | 2020-06-15 ~ 2020-07-15 | https://github.com/meucham11 | 
+rsqlpython | 31일중 28일 이상 Commit 하기 | 2020-08-01 ~ 2020-08-31 | https://github.com/meucham11 | 
 _(수정을 원하시면, PR을 보내주세요.)_

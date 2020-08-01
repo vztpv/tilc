@@ -2,9 +2,9 @@
 
 | name | goal | date | repo |
 | ---- | ---- | ---- | ---- |
-Spock | 30일간 매일 Commit 하기 | 2020-08-01 ~ 2020-08-31 | https://github.com/spock-mark1 |
-Ryan cho | 30일간 매일 TIL 또는 Commit 하기 | 2020-08-01 ~ 2020-08-31 | https://github.com/ryancho |
-melchor | 30일간 매일 TIL 또는 Commit 하기 | 2020-08-01 ~ 2020-08-31 | https://github.com/hypernova1 |
+Spock | 31일간 매일 Commit 하기 | 2020-08-01 ~ 2020-08-31 | https://github.com/spock-mark1 |
+Ryan cho | 31일간 매일 TIL 또는 Commit 하기 | 2020-08-01 ~ 2020-08-31 | https://github.com/ryancho |
+melchor | 31일간 매일 TIL 또는 Commit 하기 | 2020-08-01 ~ 2020-08-31 | https://github.com/hypernova1 |
 rsqlpython | 31일중 28일 이상 Commit 하기 | 2020-08-01 ~ 2020-08-31 | https://github.com/meucham11 | 
 
 

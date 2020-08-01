@@ -8,7 +8,7 @@ melchor | 31일간 매일 TIL 또는 Commit 하기 | 2020-08-01 ~ 2020-08-31 | h
 rsqlpython | 31일중 28일 이상 Commit 하기 | 2020-08-01 ~ 2020-08-31 | https://github.com/meucham11 | 
 
 
-### 참여를 희망하시면, 날짜 수정해 주세요!
+### 참여를 희망하시면, 내용과 날짜를 수정해 주세요!
 | name | goal | date | repo |
 | ---- | ---- | ---- | ---- |
 Amira | 30일간 Figma  TIL | 2020-06-15 ~ 2020-07-15 | https://github.com/iamamira |

@@ -7,7 +7,7 @@ Ryan cho | 31일간 매일 TIL 또는 Commit 하기 | 2020-08-01 ~ 2020-08-31 | 
 melchor | 31일간 매일 TIL 또는 Commit 하기 | 2020-08-01 ~ 2020-08-31 | https://github.com/hypernova1 |
 rsqlpython | 31일중 28일 이상 Commit 하기 | 2020-08-01 ~ 2020-08-31 | https://github.com/meucham11 | 
 김동현 | 31일간 매일 Commit 하기 | 2020-08-01 ~ 2020-08-31 | https://github.com/0916dhkim | 
-
+Simple | 31일간 매일 TIL 또는 Commit 하기 | 2020-08-01 ~ 2020-08-31 | https://github.com/leechoongyon |
 
 ### 참여를 희망하시면, 내용과 날짜를 수정해 주세요!
 | name | goal | date | repo |
